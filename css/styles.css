@@ -1,0 +1,118 @@
+body {
+  background-color: #CCD1E4;
+  position: relative;
+  text-align: center;
+}
+img{
+  border-radius: 50%;
+  height: auto;
+  width: 17%;
+  float: left;
+  padding:  1rem 1rem;
+}
+.daniel {
+  background-color: rgb(117, 65, 200);
+  color: rgb(207, 207, 207, .5);
+  height: 150px;
+  width: 400px;
+  font-size: xx-small;
+  border-radius: .3rem;
+  text-align: left;
+  padding:  1rem 1rem;
+  position: absolute;
+  left: 190px;
+}
+
+.jonathan {
+  background-color: rgb(72, 85, 106);
+  color: rgb(207, 207, 207, .5);
+  height: 150px;
+  width: 150px;
+  font-size: xx-small;
+    border-radius: .3rem;
+    text-align: left;
+    padding:  1rem 1rem;
+    position: absolute;
+    left: 640px;
+
+}
+
+.jeanette {
+  background-color: rgb(255, 255, 255);
+  color: rgb(72, 85, 106, .5);
+  height: 150px;
+  width: 150px;
+  font-size: x-small;
+    border-radius: .3rem;
+    text-align: left;
+    padding:  1rem 1rem;
+    position: absolute;
+    top: 320px;
+    left: 190px;
+}
+
+.patrick {
+  background-color: rgb(25, 33, 46);
+  color: rgb(207, 207, 207, .5);
+  height: 150px;
+  width: 400px;
+  font-size: x-small;
+    border-radius: .3rem;
+    text-align: left;
+    padding:  1rem 1rem;
+    position: absolute;
+    top: 320px;
+    left: 390px;
+}
+
+.kira {
+  background-color: rgb(255, 255, 255);
+  color: rgb(72, 85, 106, .5);
+  height: 350px;
+  width: 200px;
+  font-size: x-small;
+    border-radius: .3rem;
+    text-align: left;
+        padding:  1rem;
+        position: absolute;
+        left: 840px;
+}
+
+.boys {
+  color: rgb(236, 242, 248);
+}
+
+.girls {
+  color: rgb(25, 33, 46);
+}
+.spacing{
+  clear: left;
+}
+.form{
+  padding: 120px;
+  position: relative;
+
+}
+.quotation-mark{
+  position: absolute;
+  bottom: 90px;
+left: 280px;
+height: 90px;
+opacity: .4;
+}
+.daniel1{
+  border-radius: 50%;
+  height: auto;
+  width: 8%;
+  float: left;
+  padding:  1rem 1rem;
+}
+.attribution{
+background-color: #CCD1E4;
+position: absolute;
+top: 550px;
+text-align: center;
+left: 190px;
+font-family: "Teko", sans-serif;
+color: rgb(72, 85, 106);
+}
